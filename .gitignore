@@ -1,0 +1,13 @@
+# Binary for programs and plugins
+*.exe
+*.exe~
+*.out
+*.lib
+*.a
+*.so
+*.dll
+
+# CMake relate
+cmake-build-debug/
+*.txt
+**/.idea/
